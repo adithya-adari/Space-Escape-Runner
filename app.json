@@ -1,0 +1,31 @@
+{
+  "expo": {
+    "name": "Space Escape Runner",
+    "slug": "space-escape-runner",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "dark",
+    "newArchEnabled": true,
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#081229"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "edgeToEdgeEnabled": true,
+      "package": "com.adithya_adari.spaceescaperunner"
+    },
+    "web": {
+      "bundler": "metro"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "ce9b756d-b6c1-459c-ba22-cf2d14772607"
+      }
+    }
+  }
+}
