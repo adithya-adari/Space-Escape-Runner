@@ -13,7 +13,7 @@ A fun 2D arcade space game built using **React Native** and **Expo** where playe
 
 ### 💥 Game Over
 
-![Game Over](assets/screenshots/gameover.jpg)
+![Game Over](assets/screenshots/gameover.jpg.jpeg)
 
 ---
 
