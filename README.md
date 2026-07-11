@@ -3,6 +3,23 @@
 A fun 2D arcade space game built using **React Native** and **Expo** where players control a spaceship and dodge incoming asteroids while trying to achieve the highest score.
 
 ---
+## 📱 Screenshots
+
+### 🏠 Home Screen
+
+![Home](assets/screenshots/home.jpg)
+
+---
+
+### 💥 Game Over
+
+![Game Over](assets/screenshots/gameover.jpg)
+
+---
+
+### 🏆 High Score
+
+![High Score](assets/screenshots/highscore.jpg)
 
 
 
